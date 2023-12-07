@@ -7,7 +7,7 @@ Para ejecutar el código realice lo siguiente:
         `./aes <filename> $((2**n))`
         `./salsa <filename> $((2**n))`
 
-        siendo 2**n el tamaño del archivo que desea encriptar.
+   siendo 2**n el tamaño del archivo que desea encriptar.
 
 Nota: Puede cambiar la variable PRINT a 0 si no quiere imprimir los textos ni el archivo encriptado, sólo mostrará los tiempos de ejecución. 
 
